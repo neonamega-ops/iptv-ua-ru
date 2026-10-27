@@ -5,4 +5,6 @@
 
 Плейлист: `https://raw.githubusercontent.com/neonamega-ops/iptv-ua-ru/main/playlist.m3u`
 
+Телепрограмма: `https://raw.githubusercontent.com/neonamega-ops/iptv-ua-ru/main/epg.xml.gz`
+
 Обновляется каждый день (GitHub Actions, `.github/workflows/update.yml`).
