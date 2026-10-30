@@ -747,6 +747,8 @@ https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 tvg-id="s0.hollywood" group-title="Россия" tvg-logo="https://i.imgur.com/1j7cT2I.png",Hollywood (1080p)
 http://31.148.48.15/MGM_HD/index.m3u8
+#EXTINF:-1 tvg-id="s0.home-4k" group-title="Россия" tvg-logo="https://i.imgur.com/3UXk7JR.png",Home 4K
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.nadezhda" group-title="Россия" tvg-logo="https://i.imgur.com/ah6VnFJ.png",Hope Channel Russia (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ZbOqfy4.png",Horoshee Kino (720p)
@@ -1009,6 +1011,8 @@ http://31.131.141.195:8000/play/a006/index.m3u8
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="s0.osetia-iryston" group-title="Россия" tvg-logo="https://i.imgur.com/N0Zn4zU.png",Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png",OSN
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.ostrosiuzhetnoe" group-title="Россия" tvg-logo="https://i.imgur.com/NwQ7GBy.png",Ostrosyuzhetnoye HD (1080p)
 http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/7orZOJA.png",Otkritiy mir. Zdorove (576p)
