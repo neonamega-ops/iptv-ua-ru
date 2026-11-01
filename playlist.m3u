@@ -62,7 +62,7 @@ http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.8kanal-by" group-title="Україна" tvg-logo="https://i.imgur.com/6Sr5vJD.png" http-user-agent="curl/8.16.0",Channel 8 (Ukraine)
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 tvg-id="s0.channel-11-il" group-title="Україна" tvg-logo="https://i.imgur.com/y78saaG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",Channel 11 (Ukraine) (720p)
+#EXTINF:-1 tvg-id="s0.11kanal" group-title="Україна" tvg-logo="https://i.imgur.com/y78saaG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",Channel 11 (Ukraine) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="s0.24news-ua" group-title="Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",Channel 24 (Ukraine) (1080p)
@@ -131,7 +131,7 @@ http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="s0.fauna" group-title="Україна" tvg-logo="https://i.imgur.com/UwQcDTm.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Fauna (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/401/index.m3u8
-#EXTINF:-1 group-title="Україна" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
+#EXTINF:-1 tvg-id="s0.filmbox-ru" group-title="Україна" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/kizTBgS.png",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
@@ -624,7 +624,7 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/V3MTfyc.png",City Eden Sirtaki TV [Not 24/7]
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="s0.cityedem-telenov" group-title="Россия" tvg-logo="https://i.imgur.com/mT5liTh.png",City Eden TeleNovella [Not 24/7]
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/mT5liTh.png",City Eden TeleNovella [Not 24/7]
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/X9kACKi.png",City Eden TV [Not 24/7]
 https://cityeden.catcast.tv/content/34246/index.m3u8
@@ -1365,6 +1365,8 @@ http://stream.mcquack.net/311/index.m3u8
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="s0.viasat-sport" group-title="Россия" tvg-logo="https://i.imgur.com/fXESG0l.png",viju+ Sport HD (1080p)
 http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/XoR9zLh.png",Vital Drive
+https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/lzQsVfn.png",Vitrina TV (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.viva-rus" group-title="Россия" tvg-logo="https://i.imgur.com/OFhQQCD.png",VIVA Russia
