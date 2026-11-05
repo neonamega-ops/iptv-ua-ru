@@ -24,6 +24,8 @@ http://91.214.48.158:4022/udp/224.2.2.4:10000
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.36-6-tv" group-title="Україна" tvg-logo="https://i.imgur.com/sC0K5BZ.png",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/bSXKdK5.png",100% NEWS (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/JQZkxeA.png",555 (720p)
 http://trk555.tv:8888/live
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/KRakHAq.png",¡Viva Latino! (1080p)
@@ -207,6 +209,8 @@ https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/X0Vp6fd.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Law TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/406/index.m3u8
+#EXTINF:-1 tvg-id="s0.legendarny24" group-title="Україна" tvg-logo="https://i.imgur.com/z9t6x8B.png",Legendarnyy 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/AihoVc0.png",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="s0.luxtv" group-title="Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Lux_TV_2.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Lux TV (1080p)
@@ -277,6 +281,8 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ubldSBv.png" http-user-agent="curl/8.16.0",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+#EXTINF:-1 tvg-id="s0.ont-by" group-title="Україна" tvg-logo="https://i.imgur.com/jFP50g2.png",Obshchestvennoe Nezavisimoe Televidenie (576p)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="s0.one-planet" group-title="Україна" tvg-logo="https://i.imgur.com/N7FBNjV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",One Planet (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/448/index.m3u8
@@ -823,6 +829,8 @@ http://178.124.179.122:8080/KVN-TV/index.m3u8
 https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="s0.ldpr-tv" group-title="Россия" tvg-logo="https://i.imgur.com/gCmCRfe.png",LDPR TV (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="s0.legendarny24" group-title="Россия" tvg-logo="https://i.imgur.com/z9t6x8B.png",Legendarnyy 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="s0.lot-47" group-title="Россия" tvg-logo="https://i.imgur.com/d02uxkB.png",LenTV24
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 #EXTINF:-1 tvg-id="s0.shop24" group-title="Россия" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 (1080p)
@@ -886,8 +894,6 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png",Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 tvg-id="s0.moya-planeta" group-title="Россия" tvg-logo="https://i.imgur.com/uIiAdBv.png",Moya Planeta (1080p)
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="s0.morskoy" group-title="Россия" tvg-logo="https://i.imgur.com/Sl8c9eB.png",Moya stikhiya HD (1080p)
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/pdCAUrP.png",MTV Volgograd (720p) [Not 24/7]
@@ -964,7 +970,7 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=20
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.ntv-serial" group-title="Россия" tvg-logo="https://i.imgur.com/QdVa8tl.png",NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png",NTV Sledstviye veli (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="s0.ntv-sledstvie-veli" group-title="Россия" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png",NTV Sledstviye veli (1080p) [Geo-blocked]
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-id="s0.ntv-style" group-title="Россия" tvg-logo="https://i.imgur.com/rX6K6qT.png",NTV Style (576p)
 https://cdn.ntv.ru/th_style/playlist.m3u8
