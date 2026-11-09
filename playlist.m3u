@@ -70,8 +70,6 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/1WjGN8u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Chemodan TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/399/index.m3u8
-#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/O9nQ5po.png",Cherniveckiy promin (720p)
-https://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/2cYzroj.png",ChP info (576p)
 http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
 #EXTINF:-1 tvg-id="s0.cine-plus" group-title="Україна" tvg-logo="https://i.imgur.com/SAtdShq.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+
@@ -470,8 +468,6 @@ http://stream.mcquack.net/70/index.m3u8
 http://trk555.tv:8888/live
 #EXTINF:-1 tvg-id="s0.sony-turbo" group-title="Россия" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 tvg-id="s0.sony-tv" group-title="Россия" tvg-logo="https://i.imgur.com/GET9Qut.png",.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="s0.sony-tv" group-title="Россия" tvg-logo="https://i.imgur.com/GET9Qut.png",.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="s0.scifi-pl" group-title="Россия" tvg-logo="https://i.imgur.com/nSSUHcg.png",.sci-fi (576p)
@@ -534,8 +530,6 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="s0.bridge-hd" group-title="Россия" tvg-logo="https://i.imgur.com/qYObfrG.png",BRIDGE (576p)
 http://178.134.1.158:8081/BRIDGE/index.m3u8
-#EXTINF:-1 tvg-id="s0.bridge-tv-classic" group-title="Россия" tvg-logo="https://i.imgur.com/JJTQq81.png",BRIDGE Classic (576p)
-http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="s0.bridge-hd" group-title="Россия" tvg-logo="https://i.imgur.com/EazL8w7.png",BRIDGE Deluxe (1080p)
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="s0.bridge-hd" group-title="Россия" tvg-logo="https://i.imgur.com/EazL8w7.png",BRIDGE Deluxe HD (576p)
@@ -772,8 +766,6 @@ http://stream.mcquack.net/265/index.m3u8
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-id="s0.kinopokaz" group-title="Россия" tvg-logo="https://i.imgur.com/nNjMyAq.png",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 tvg-id="s0.kinopremiera-hd" group-title="Россия" tvg-logo="https://i.imgur.com/s0UYT8T.png",Kinopremyera (1080p)
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="s0.kinopremiera-hd" group-title="Россия" tvg-logo="https://i.imgur.com/s0UYT8T.png",Kinopremyera HD (1080p)
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="s0.kinosat" group-title="Россия" tvg-logo="https://i.imgur.com/7KsNvBz.png",KinoSat (576p)
@@ -782,8 +774,6 @@ http://31.148.48.15/Kineko/index.m3u8
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-id="s0.kinoseria" group-title="Россия" tvg-logo="https://i.imgur.com/iao7zLZ.png",Kinoseriya (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="s0.kinosvidanie" group-title="Россия" tvg-logo="https://i.imgur.com/ZRaWqxj.png",Kinosvidanie (576p)
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="s0.kinouzhas" group-title="Россия" tvg-logo="https://i.imgur.com/mAcAAQF.png",Kinouzhas (576p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",KN Music TV
@@ -1352,8 +1342,6 @@ http://31.148.5.241/Viasat_Sport/index.m3u8
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/lzQsVfn.png",Vitrina TV (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
-#EXTINF:-1 tvg-id="s0.viva-rus" group-title="Россия" tvg-logo="https://i.imgur.com/OFhQQCD.png",VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.vkus" group-title="Россия" tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png",Vkus (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="s0.vmeste-rf" group-title="Россия" tvg-logo="https://i.imgur.com/KI1qZNc.png",Vmeste-RF (1080p)
