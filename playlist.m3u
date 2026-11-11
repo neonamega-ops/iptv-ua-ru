@@ -264,7 +264,7 @@ http://31.131.139.253:9002/novoros/index.m3u8
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NL_UA.svg/960px-NL_UA.svg.png",Novyny.Live
 rtmp://95.67.11.153/klive/stream
-#EXTINF:-1 tvg-id="s0.atv-bazmoc" group-title="Україна" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",NTK TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Україна" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",NTK TV (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="s0.ntn-ua" group-title="Україна" tvg-logo="https://i.imgur.com/AmyCNJv.png",NTN (Ukraine) (1080p)
 http://stream.mcquack.net/326/index.m3u8
@@ -340,6 +340,8 @@ http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/FfYVCJC.png",Simon (720p) [Geo-blocked]
 https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 tvg-id="s0.ck1-ua" group-title="Україна" tvg-logo="https://i.imgur.com/XiXwr5h.png",SK 1 (720p)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.solnce" group-title="Україна" tvg-logo="https://i.imgur.com/MrkQLTp.png" http-user-agent="curl/8.16.0",Sonce
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
@@ -581,8 +583,6 @@ https://cityeden.catcast.tv/content/41333/index.m3u8
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 tvg-id="s0.cityedem-kinoazia" group-title="Россия" tvg-logo="https://i.imgur.com/gaket4B.png",City Eden KinoAsia [Not 24/7]
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/9rKHwBV.png",City Eden KinoDetektiv [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/itRbMX3.png",City Eden KinoDok [Not 24/7]
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/29ddffh.png",City Eden KinoDrama [Not 24/7]
@@ -609,8 +609,6 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/X9kACKi.png",City Eden TV [Not 24/7]
 https://cityeden.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 tvg-id="s0.classic-music" group-title="Россия" tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music (1080p)
-http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="s0.krym24" group-title="Россия" tvg-logo="https://i.imgur.com/k4C0uvp.png",Crimea 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="s0.nastoyaschee-vremia" group-title="Россия" tvg-logo="https://i.imgur.com/hKo8ApU.png",Current Time TV (1080p)
@@ -1216,6 +1214,8 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="s0.the-explorers" group-title="Россия" tvg-logo="https://www.oreol.tv/img/news/Logo_The_Explorers_Bleu.png",The Explorers (1080p)
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+#EXTINF:-1 tvg-id="s0.tiji" group-title="Россия" tvg-logo="https://i.imgur.com/QCOUJ30.png",TiJi (576p)
+http://flussonic.linkintel.ru/tiji/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/VqtPB7L.png",TKR (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.tlc" group-title="Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",TLC (Russia) (1080p)
