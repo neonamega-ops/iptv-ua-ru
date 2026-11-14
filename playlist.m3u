@@ -134,6 +134,8 @@ http://stream.mcquack.net/401/index.m3u8
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/kizTBgS.png",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="s0.filmua-drama" group-title="Україна" tvg-logo="https://i.imgur.com/Hnwsh5d.png",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.ua-tv" group-title="Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",FREEDOM (1080p)
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.gags-network" group-title="Україна" tvg-logo="https://i.imgur.com/ENj5GIp.png",Gagsnetwork (576p)
