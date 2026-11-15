@@ -256,12 +256,14 @@ http://stream.mcquack.net/403/index.m3u8
 http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-id="s0.niki-kids" group-title="Україна" tvg-logo="https://i.imgur.com/HH4HZ2J.png",Niki Kids (1080p)
 http://stream.mcquack.net/271/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ijmf0bV.png",Novorossiya TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="s0.novy-kanal-ua" group-title="Україна" tvg-logo="https://i.imgur.com/Dnfhdsm.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Novyi Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NL_UA.svg/960px-NL_UA.svg.png",Novyny.Live
 rtmp://95.67.11.153/klive/stream
-#EXTINF:-1 group-title="Україна" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",NTK TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="s0.atv-bazmoc" group-title="Україна" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",NTK TV (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="s0.ntn-ua" group-title="Україна" tvg-logo="https://i.imgur.com/AmyCNJv.png",NTN (Ukraine) (1080p)
 http://stream.mcquack.net/326/index.m3u8
@@ -272,6 +274,8 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
 #EXTINF:-1 tvg-id="s0.ont-by" group-title="Україна" tvg-logo="https://i.imgur.com/jFP50g2.png",Obshchestvennoe Nezavisimoe Televidenie (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV SD (1080p) [Geo-blocked]
+http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",Orbita TV (360p) [Not 24/7]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-id="s0.otse" group-title="Україна" tvg-logo="https://i.imgur.com/SeRNJIS.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",OTSE (1080p)
@@ -545,10 +549,6 @@ http://88.218.242.237:8001/Cartoon_Classics
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="s0.8kanal-by" group-title="Россия" tvg-logo="https://i.imgur.com/nUSx1jF.png",Channel 8 (Russia) (576p)
 http://45.11.139.43:8555/8kanal/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/q3JCAC3.png" http-referrer="https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Channel 8 Krasnoyarsk HD (1080p)
-#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="s1.6811" group-title="Россия" tvg-logo="https://i.imgur.com/eHGETvU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Channel 8 Novosibirsk (480i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
@@ -563,7 +563,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/7tNDKHe.png",Channel-16 (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.che" group-title="Россия" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Che! (576p)
-http://176.118.197.101/Che/index.m3u8
+http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-id="s0.cinema-ru" group-title="Россия" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema (Russia) (576p)
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/qpe8L27.png",City Eden AutoGid [Not 24/7]
@@ -765,7 +765,7 @@ http://stream.mcquack.net/265/index.m3u8
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-id="s0.kinopokaz" group-title="Россия" tvg-logo="https://i.imgur.com/nNjMyAq.png",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 tvg-id="s0.kinopremiera-hd" group-title="Россия" tvg-logo="https://i.imgur.com/s0UYT8T.png",Kinopremyera HD (1080p)
+#EXTINF:-1 tvg-id="s0.kinopremiera-hd" group-title="Россия" tvg-logo="https://i.imgur.com/s0UYT8T.png",Kinopremyera (1080p)
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="s0.kinosat" group-title="Россия" tvg-logo="https://i.imgur.com/7KsNvBz.png",KinoSat (576p)
 http://31.148.48.15/Kineko/index.m3u8
@@ -924,6 +924,8 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="s0.novgorodskoe-obl-tv" group-title="Россия" tvg-logo="https://i.imgur.com/2JspHVY.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",NovgorOblTV [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ijmf0bV.png",Novorossiya TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="s0.nst" group-title="Россия" tvg-logo="https://i.imgur.com/uv2yxa5.png",NST (576p)
 http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/W9s1flH.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",NTK 21 [Geo-blocked]
@@ -979,6 +981,8 @@ http://stream.mcquack.net/493/index.m3u8
 http://91.224.16.9:7779/Oplot_2/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV (1080p) [Geo-blocked]
 http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV SD (1080p) [Geo-blocked]
+http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="s0.osetia-iryston" group-title="Россия" tvg-logo="https://i.imgur.com/N0Zn4zU.png",Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png",OSN
