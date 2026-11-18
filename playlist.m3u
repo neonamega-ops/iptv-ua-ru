@@ -256,14 +256,12 @@ http://stream.mcquack.net/403/index.m3u8
 http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-id="s0.niki-kids" group-title="Україна" tvg-logo="https://i.imgur.com/HH4HZ2J.png",Niki Kids (1080p)
 http://stream.mcquack.net/271/index.m3u8
-#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ijmf0bV.png",Novorossiya TV (1080p) [Geo-blocked]
-http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="s0.novy-kanal-ua" group-title="Україна" tvg-logo="https://i.imgur.com/Dnfhdsm.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Novyi Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NL_UA.svg/960px-NL_UA.svg.png",Novyny.Live
 rtmp://95.67.11.153/klive/stream
-#EXTINF:-1 tvg-id="s0.atv-bazmoc" group-title="Україна" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",NTK TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Україна" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",NTK TV (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="s0.ntn-ua" group-title="Україна" tvg-logo="https://i.imgur.com/AmyCNJv.png",NTN (Ukraine) (1080p)
 http://stream.mcquack.net/326/index.m3u8
@@ -297,7 +295,7 @@ http://stream.mcquack.net/246/index.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/8qdc6aO.png",Pervyy gorodskoy. Odessa (576p)
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ti4OMBv.png",Pervyy Respublikanskiy
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ti4OMBv.png",Pervyy Respublikanskiy (576p)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ECro8Ah.png",Pixel TV (1080p)
 http://stream.mcquack.net/323/index.m3u8
@@ -440,8 +438,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xM
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
-#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/E5aV5aa.png",Z (1080p)
-https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/pVPTl8J.png",Za! TV
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-id="s0.zoom-ua" group-title="Україна" tvg-logo="https://i.imgur.com/EzIiXIT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Zoom (Ukraine) (1080p)
@@ -468,7 +464,7 @@ http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/JQZkxeA.png",555 (720p)
 http://trk555.tv:8888/live
 #EXTINF:-1 tvg-id="s0.sony-turbo" group-title="Россия" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black (576p)
-http://stream.mcquack.net/263/index.m3u8
+http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="s0.scifi-pl" group-title="Россия" tvg-logo="https://i.imgur.com/nSSUHcg.png",.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="s0.amedia1" group-title="Россия" tvg-logo="https://i.imgur.com/2pAHdAi.png",A1 (576p)
@@ -692,7 +688,7 @@ http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/rEo7nR1.png",First Music Channel Russia (1080p)
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="Россия" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ",FON TV (1080p)
-https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",Food Network (Russia) (1080p)
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-id="s0.fox" group-title="Россия" tvg-logo="https://i.imgur.com/nr1Y67Z.png",Fox (Russia) (576p)
@@ -822,14 +818,10 @@ http://31.148.48.15/Match_Arena_HD/index.m3u8
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="s0.match-igra" group-title="Россия" tvg-logo="https://i.imgur.com/5XWpF19.png",Match! Igra (720p)
 http://31.148.48.15/Match_Igra_HD/index.m3u8
-#EXTINF:-1 tvg-id="s0.match-planeta" group-title="Россия" tvg-logo="https://i.imgur.com/vhyMb9D.png",Match! Planeta (576p)
-https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="s0.match-premier" group-title="Россия" tvg-logo="https://i.imgur.com/GQPyHYK.png",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="s0.match-nash-sport" group-title="Россия" tvg-logo="https://i.imgur.com/X02s2UE.png",Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg",Match! Ultra (1080p)
-http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="s0.mcm-top" group-title="Россия" tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top (Russia) (576p)
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="s0.mezzo-live-hd" group-title="Россия" tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live (1080p)
@@ -922,8 +914,6 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="s0.novgorodskoe-obl-tv" group-title="Россия" tvg-logo="https://i.imgur.com/2JspHVY.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",NovgorOblTV [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ijmf0bV.png",Novorossiya TV (1080p) [Geo-blocked]
-http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="s0.nst" group-title="Россия" tvg-logo="https://i.imgur.com/uv2yxa5.png",NST (576p)
 http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/W9s1flH.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",NTK 21 [Geo-blocked]
@@ -991,13 +981,13 @@ http://stream.mcquack.net/214/index.m3u8
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/VaWlnjZ.png",OTR (576p)
 http://31.148.5.241/kanal_9/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/2zd8trG.png",OTV-Prim
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/2zd8trG.png",OTV-Prim (720p)
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.pervy-krymsky" group-title="Россия" tvg-logo="https://i.imgur.com/i6hg7QG.png",Perviy Krymskiy (720p)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg",Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ti4OMBv.png",Pervyy Respublikanskiy
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ti4OMBv.png",Pervyy Respublikanskiy (576p)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg",Pes (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
@@ -1246,8 +1236,6 @@ http://185.23.80.23:8080/TVBRICS/index.m3u8
 http://31.148.5.241/kanal_10/index.m3u8
 #EXTINF:-1 tvg-id="s0.tvci" group-title="Россия" tvg-logo="https://i.imgur.com/tsCOnBW.png",TV Centr International (576p)
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/sbuSefI.png",TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="s0.dozhd" group-title="Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png",TV Rain (1080p) [Geo-blocked]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.tv3-ru" group-title="Россия" tvg-logo="https://i.imgur.com/JLAvq8O.png",TV-3 (576p)
@@ -1328,8 +1316,6 @@ http://stream.mcquack.net/240/index.m3u8
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 #EXTINF:-1 tvg-id="s0.vip-serial" group-title="Россия" tvg-logo="https://i.imgur.com/8yXZET5.png",viju+ Serial HD (1080p)
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#EXTINF:-1 tvg-id="s0.viasat-sport" group-title="Россия" tvg-logo="https://i.imgur.com/fXESG0l.png",viju+ Sport (576p)
-http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-id="s0.viasat-sport" group-title="Россия" tvg-logo="https://i.imgur.com/fXESG0l.png",viju+ Sport HD (1080p)
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/lzQsVfn.png",Vitrina TV (720p)
@@ -1361,8 +1347,6 @@ https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="s0.zhivaya-priroda" group-title="Россия" tvg-logo="https://i.imgur.com/9lHQPdN.png",Zhivaya priroda (1080p)
 http://stream.mcquack.net/83/index.m3u8
-#EXTINF:-1 tvg-id="s0.zhivaya-priroda" group-title="Россия" tvg-logo="https://i.imgur.com/9lHQPdN.png",Zhivaya priroda HD (1080p)
-http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="s0.zhivi" group-title="Россия" tvg-logo="https://i.imgur.com/LPqySGk.png",Zhivi! (1080p)
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 tvg-id="s0.zootv" group-title="Россия" tvg-logo="https://i.imgur.com/p7WzqGS.png",Zoo TV (576p)
