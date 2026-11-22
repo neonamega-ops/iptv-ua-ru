@@ -24,8 +24,6 @@ http://91.214.48.158:4022/udp/224.2.2.4:10000
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.36-6-tv" group-title="Україна" tvg-logo="https://i.imgur.com/sC0K5BZ.png",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/bSXKdK5.png",100% NEWS (576p)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/JQZkxeA.png",555 (720p)
 http://trk555.tv:8888/live
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/KRakHAq.png",¡Viva Latino! (1080p)
@@ -272,8 +270,6 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ubldSBv.png" http-user-agent="curl/8.16.0",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
-#EXTINF:-1 tvg-id="s0.ont-by" group-title="Україна" tvg-logo="https://i.imgur.com/jFP50g2.png",Obshchestvennoe Nezavisimoe Televidenie (576p)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV SD (1080p) [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",Orbita TV (360p) [Not 24/7]
@@ -321,8 +317,6 @@ http://stream.mcquack.net/464/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/qL1uNlW.png",Renome TV (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1 tvg-id="s0.reportior" group-title="Україна" tvg-logo="https://i.imgur.com/LyA3kBR.png",Reporter (720p)
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.rivne1" group-title="Україна" tvg-logo="https://i.imgur.com/ytz7jYV.png",Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.rybalka" group-title="Україна" tvg-logo="https://i.imgur.com/NafW0xT.png",Rybalka (1080p)
@@ -773,8 +767,6 @@ http://31.148.48.15/Kineko/index.m3u8
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-id="s0.kinoseria" group-title="Россия" tvg-logo="https://i.imgur.com/iao7zLZ.png",Kinoseriya (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Россия" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",KN Music TV
-https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="s0.russkaya-komedia" group-title="Россия" tvg-logo="https://i.imgur.com/VRC5juh.png",Komedia (576p)
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="s0.komedijnoe" group-title="Россия" tvg-logo="https://i.imgur.com/cEKe8XC.png",Komediynoe HD (1080p)
@@ -977,8 +969,6 @@ http://178.124.179.122:8080/Setanta1/index.m3u8
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg",Oplot 2 (720p) [Geo-blocked]
 http://91.224.16.9:7779/Oplot_2/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV (1080p) [Geo-blocked]
-http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV SD (1080p) [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="s0.osetia-iryston" group-title="Россия" tvg-logo="https://i.imgur.com/N0Zn4zU.png",Osetiya-Iryston (1080p)
