@@ -24,8 +24,6 @@ http://91.214.48.158:4022/udp/224.2.2.4:10000
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.36-6-tv" group-title="Україна" tvg-logo="https://i.imgur.com/sC0K5BZ.png",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/bSXKdK5.png",100% NEWS (576p)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/JQZkxeA.png",555 (720p)
 http://trk555.tv:8888/live
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/KRakHAq.png",¡Viva Latino! (1080p)
@@ -70,6 +68,8 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.chemodan" group-title="Україна" tvg-logo="https://i.imgur.com/1WjGN8u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Chemodan TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/O9nQ5po.png",Cherniveckiy promin (720p)
+https://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/2cYzroj.png",ChP info (576p)
 http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
 #EXTINF:-1 tvg-id="s0.cine-plus" group-title="Україна" tvg-logo="https://i.imgur.com/SAtdShq.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+
@@ -272,8 +272,6 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/ubldSBv.png" http-user-agent="curl/8.16.0",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
-#EXTINF:-1 tvg-id="s0.ont-by" group-title="Україна" tvg-logo="https://i.imgur.com/jFP50g2.png",Obshchestvennoe Nezavisimoe Televidenie (576p)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.imgur.com/RvUkId2.png",Oplot TV SD (1080p) [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 group-title="Україна" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",Orbita TV (360p) [Not 24/7]
@@ -537,19 +535,13 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://bridgemusic.ru/s/img/channels/jazz-white.svg",BRIDGE Jazz (720p) [Geo-blocked]
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://bridgemusic.ru/s/img/channels/rap-logo-dark.svg",BRIDGE Rap (720p) [Geo-blocked]
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://bridgemusic.ru/s/img/channels/rnb-logo-dark.svg",BRIDGE RNB (720p) [Geo-blocked]
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
 #EXTINF:-1 tvg-id="s0.bridge-tv-rock" group-title="Россия" tvg-logo="https://i.imgur.com/MHuwct2.png",BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://bridgemusic.ru/s/img/channels/soul-logo-dark.svg",BRIDGE Soul (720p) [Geo-blocked]
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://bridgemusic.ru/s/img/channels/symphony-white.svg",BRIDGE Symphony (720p) [Geo-blocked]
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://bridgemusic.ru/s/img/channels/vostok-white.svg",BRIDGE Vostok (720p) [Geo-blocked]
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/IDotHmQ.png",BST (1080p)
+#EXTINF:-1 tvg-id="s0.bst" group-title="Россия" tvg-logo="https://i.imgur.com/IDotHmQ.png",BST (1080p)
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="s0.karusel" group-title="Россия" tvg-logo="https://i.imgur.com/4wmnx1W.png",Carousel (1080p)
 http://31.148.48.15/Karusel_HD/index.m3u8
@@ -709,7 +701,7 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="Россия" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ",FON TV (1080p)
 https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",Food Network (Russia) (1080p)
+#EXTINF:-1 tvg-id="s0.food-network-eu" group-title="Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",Food Network (Russia) (1080p)
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-id="s0.fox" group-title="Россия" tvg-logo="https://i.imgur.com/nr1Y67Z.png",Fox (Russia) (576p)
 http://stream.mcquack.net/182/index.m3u8
@@ -824,7 +816,7 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 #EXTINF:-1 tvg-id="s0.shop24" group-title="Россия" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:-1 tvg-id="s0.live-music-channel" group-title="Россия" tvg-logo="https://i.imgur.com/9qJkxV9.png",Live Music Channel HD (1080p)
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/9qJkxV9.png",Live Music Channel HD (1080p)
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/AihoVc0.png",Lugansk 24 (576p)
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
@@ -1198,7 +1190,7 @@ http://31.148.48.15/Solnce/index.m3u8
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.soyuz" group-title="Россия" tvg-logo="https://i.imgur.com/w3OewHc.png",Soyuz (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="s0.tro" group-title="Россия" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png",Soyuzny (576p)
+#EXTINF:-1 tvg-id="s0.sojuzny" group-title="Россия" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png",Soyuzny (576p)
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="s0.spas" group-title="Россия" tvg-logo="https://i.imgur.com/yY39nMg.png",Spas (576p)
 http://31.148.5.241/kanal_12/index.m3u8
